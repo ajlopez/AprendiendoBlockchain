@@ -44,9 +44,59 @@ Hay muchos recursos en inglés, espero poder agregar otros en español.
 
 ### Casos de Uso
 
-### Otras Blockchains
+- [A Brief Intro To Smart Contracts And Their Endless Possibilities](https://codebrahma.com/brief-intro-smart-contracts-endless-possibilities/)
+- [Please let Blockchain NOT be the ‘Trust Machine’](https://medium.com/@goorha/please-let-blockchain-not-be-the-trust-machine-c3195f7468c)
+- [Blockchain and Cryptocurrencies Are Revolutionizing the Real Estate Sector](https://altcointoday.com/blockchain-and-cryptocurrencies-are-revolutionizing-the-real-estate/)
+- [Blockchain Market Map: 115 Blockchain Startups That Have Raised Money Through ICOs](https://www.cbinsights.com/research/blockchain-ico-tokens-startup-market-map-expert-research/)
+- [135 Blockchain Startup ICOs](https://medium.com/@bitrader23/135-blockchain-startup-icos-9095493ea364)
+- [7 Cool Decentralized Apps Being Built on Ethereum](https://www.coindesk.com/7-cool-decentralized-apps-built-ethereum/)
+- [e-Estonia - a (REAL) digital country running on the blockchain](https://steemkr.com/crypto/@axynos/e-estonia-a-real-digital-country-running-on-the-blockchain)
+- [P2P Lending With Cryptocurrency: The Future Of Digital Finance?](http://project64589.tilda.ws/blog/p2p)
+- [The Best Person-to-Person Bitcoin Loan Networks (Bitcoin P2P Loans)](https://coinsutra.com/bitcoin-loan-networks/)
+- [Is Blockchain the new supply chain?](https://www.bramwithconsulting.co.uk/blockchain-new-supply-chain/)
+- [Is blockchain tech the missing link for the success of IoT?](https://thenextweb.com/contributors/2017/09/21/blockchain-tech-missing-link-success-iot/)
+- [German-based Flood-Control Firm Set to Integrate IOTA Blockchain Network for Machine Interaction](https://cryptoglobalist.com/2018/09/25/german-based-flood-control-firm-set-to-integrate-iota-blockchain-network-for-machine-interaction/)
 
-## Presentaciones
+### Otras Blockchains y Tecnologías
+
+- [Hyperledger: Open Source Blockchain Technologies](https://www.hyperledger.org/)
+- [IOTA: The Next Generation of Distributed Ledger Technology](https://www.iota.org/)
+- [eosio: Blockchain software architecture](https://eos.io/)
+- [Cardano - Home of the Ada cryptocurrency and technological platform](https://www.cardano.org/en/home/)
+- [Corda: Blockchain for Business](https://www.cardano.org/en/home/)
+- [9 Best Decentralized Exchanges Which You Can Use To Trade Right Now](https://coinsutra.com/best-decentralized-exchanges-dex/)
+
+### Fintech
+
+- [Fintech and its Disruption of the Banking Industry, According to Anil Chaturvedi](https://hitechchronicle.com/2018/06/fintech-and-disruption-of-banking-industry-anil-chaturvedi/)
+- [How did WeChat pay became so successful in China compared to Apple pay?](https://www.quora.com/How-did-WeChat-pay-became-so-successful-in-China-compared-to-Apple-pay)
+
+### El Dinero
+
+- [Uses and Characteristics of Money](https://www.slideshare.net/Geckos/uses-and-characteristics-of-money-presentation)
+- [Money as a Store of Value: Definition & Overview](https://study.com/academy/lesson/money-as-a-store-of-value-definition-lesson-quiz.html)
+
+### Sistema D
+
+- [Why Black Market Entrepreneurs Matter to the World Economy](https://www.wired.com/2011/12/mf-neuwirth-qa/)
+- [The New Black Market: Understanding the Underground Economy](https://online.pointpark.edu/criminal-justice/underground-economy/)
+- [The Effects of Bitcoin on System D – The Shadow Economy](http://coinbrief.net/bitcoin-and-system-d/)
+- [System D: The Future of the Global Economy](http://hqinfo.blogspot.com/2011/11/system-d-future-of-global-economy.html)
+
+## Mis Proyectos
+
+Programación usando TDD (Test-Driven Development)
+
+- [Blockchain en Java](https://github.com/ajlopez/BlockchainJ)
+- [Blockchain en C#](https://github.com/ajlopez/BlockchainSharp)
+- [Aprendiendo Solidity](https://github.com/ajlopez/AprendiendoSolidity)
+- [Solidity Samples](https://github.com/ajlopez/SoliditySamples)
+- [Solidity Compiler](https://github.com/ajlopez/SolidityCompiler)
+- [Solidity Decompiler](https://github.com/ajlopez/Yasold)
+- [Simple Ethereum Virtual Machine](https://github.com/ajlopez/simpleevm)
+- [EVM to Code](https://github.com/ajlopez/evm2code)
+
+## Mis Presentaciones
 
 - [Blockchain, la Máquina de la Confianza](https://docs.google.com/presentation/d/1lTwEmH__qaJTLcSx1iyUM3VsGEFBJ4zFCssXrpt9j1A)
 - [Blockchain para Desarrolladores](https://docs.google.com/presentation/d/1TBwl2aXjYH5lTgqoKVdDb_VAvEjhiNLBc8RNComXup8)
