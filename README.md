@@ -16,8 +16,11 @@ Hay muchos recursos en inglés, espero poder agregar otros en español.
 
 ### Bitcoin
 
+- [Mastering Bitcoin, 2nd edition](https://github.com/bitcoinbook/bitcoinbook)
+
 ### Ethereum
 
+- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 - [El proyecto Ethereum](https://ethereum.org/)
 - [Solidity, Wikipedia](https://en.wikipedia.org/wiki/Solidity)
 - [Solidity Documentation](http://solidity.readthedocs.io/en/develop/)
