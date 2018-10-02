@@ -102,6 +102,7 @@ Programación usando TDD (Test-Driven Development)
 
 - [Blockchain, la Máquina de la Confianza](https://docs.google.com/presentation/d/1lTwEmH__qaJTLcSx1iyUM3VsGEFBJ4zFCssXrpt9j1A)
 - [Blockchain para Desarrolladores](https://docs.google.com/presentation/d/1TBwl2aXjYH5lTgqoKVdDb_VAvEjhiNLBc8RNComXup8)
+- [Blockchain, Ethereum, RSK y .NET](https://docs.google.com/presentation/d/1wr48ZA7fecKeG4wHYY1bOhJGoPvEhK3orlCsA2URgxg/)
 - [Smart Contracts](https://docs.google.com/presentation/d/16dw66tjzUs1bQ5y5rDCQ1MnkZXSfXUiu-cNDMmG9tC4)
 - [Más allá de Bitcoin y Ethereum](https://docs.google.com/presentation/d/1DouPDO1LZF2RiESnemmD6OLZ8YbX2Re0Jip4NjELsg4)
 - [Introduction to RSK](https://docs.google.com/presentation/d/1f7avYHnTOhLh9WMw6GKpKagltjqNgcwS0rQPlbHcgII)
