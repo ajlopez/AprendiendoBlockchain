@@ -1,0 +1,13 @@
+{
+  "name": "simpledapp",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Simple Ethereum Dapp",
+  "author": "",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "dependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
