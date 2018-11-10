@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Simple Dapp: Accounts</title>
+  </head>
+  <body>
+    <h1>Accounts</h1>
+    
+    <table id="accounts">
+        <thead>
+            <tr>
+                <th>Address</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+    
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/app.js"></script>
+    <script>
+
+function show(response) {
+    var accounts = response.result;
+    var naccounts = accounts.length;
+    
+    for (var k = 0; k < naccounts; k++) {
+        var account = accounts[k];
+        
+        var trow = $('<tr>')
+            .append($('<td>')
+                .append(account));
+                
+        $('#accounts').find('tbody').append(trow);
+    }
+}
+
+app.getAccounts(show);
+
+    </script>
+  </body>
+</html>
