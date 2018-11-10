@@ -13,6 +13,9 @@ traducción libre.
 
 Hay muchos recursos en inglés, espero poder agregar otros en español.
 
+### Blockchain
+
+- [What Is Blockchain Technology?](https://www.cbinsights.com/research/what-is-blockchain-technology/)
 
 ### Bitcoin
 
@@ -20,6 +23,7 @@ Hay muchos recursos en inglés, espero poder agregar otros en español.
 
 ### Ethereum
 
+- [What is Ethereum?](https://www.cbinsights.com/research/what-is-ethereum/)
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 - [El proyecto Ethereum](https://ethereum.org/)
 - [Solidity, Wikipedia](https://en.wikipedia.org/wiki/Solidity)
