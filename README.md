@@ -16,6 +16,7 @@ Hay muchos recursos en inglés, espero poder agregar otros en español.
 ### Blockchain
 
 - [What Is Blockchain Technology?](https://www.cbinsights.com/research/what-is-blockchain-technology/)
+- [Understanding Blockchain Fundamentals, Part 3: Delegated Proof of Stake](https://medium.com/loom-network/understanding-blockchain-fundamentals-part-3-delegated-proof-of-stake-b385a6b92ef)
 
 ### Bitcoin
 
