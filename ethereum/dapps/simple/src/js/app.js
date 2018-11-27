@@ -18,7 +18,7 @@ var app = (function () {
     function getAccounts(fn) {
         var request = {
             id: ++id,
-            jsonrpc: "jsonrpc",
+            jsonrpc: "2.0",
             method: "eth_accounts",
             params: []
         };
