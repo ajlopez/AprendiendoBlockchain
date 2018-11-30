@@ -35,6 +35,7 @@ Hay muchos recursos en inglés, espero poder agregar otros en español.
 - [Getting Started as an Ethereum Web Developer](https://hackernoon.com/getting-started-as-an-ethereum-web-developer-9a2a4ab47baf)
 - [Lightweight Explorer](https://github.com/etherparty/explorer)
 - [Getting Up to Speed on Ethereum](https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe)
+- [What is Ethereum? Beginners Video Guide](https://www.youtube.com/watch?v=IsXvoYeJxKA)
 
 ### Smart Contracts
 
