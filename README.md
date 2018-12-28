@@ -115,3 +115,7 @@ Programación usando TDD (Test-Driven Development)
 - [Más allá de Bitcoin y Ethereum](https://docs.google.com/presentation/d/1DouPDO1LZF2RiESnemmD6OLZ8YbX2Re0Jip4NjELsg4)
 - [Introduction to RSK](https://docs.google.com/presentation/d/1f7avYHnTOhLh9WMw6GKpKagltjqNgcwS0rQPlbHcgII)
 
+## Mis Videos
+
+- [Blockchain, Ethereum, RSK y .NET](https://www.youtube.com/watch?v=TiyRIaX99zM)
+
