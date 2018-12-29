@@ -36,6 +36,7 @@ Hay muchos recursos en inglés, espero poder agregar otros en español.
 - [Lightweight Explorer](https://github.com/etherparty/explorer)
 - [Getting Up to Speed on Ethereum](https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe)
 - [What is Ethereum? Beginners Video Guide](https://www.youtube.com/watch?v=IsXvoYeJxKA)
+- [What Are Dapps? The New Decentralized Future](https://blockgeeks.com/guides/dapps/)
 
 ### Smart Contracts
 
