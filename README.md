@@ -105,8 +105,11 @@ Programación usando TDD (Test-Driven Development)
 - [Solidity Decompiler](https://github.com/ajlopez/Yasold)
 - [Simple Ethereum Virtual Machine](https://github.com/ajlopez/simpleevm)
 - [EVM to Code](https://github.com/ajlopez/evm2code)
-- [Decentrilized Exchange for ERC20 Tokens](https://github.com/ajlopez/Dexert)
+- [Decentralized Exchange for ERC20 Tokens](https://github.com/ajlopez/Dexert)
+- [Decentralized Identity for Ethereum/RSK](https://github.com/ajlopez/Idener)
 - [Simple Ethereum/RSK Bridge](https://github.com/ajlopez/EthBridge)
+- [Simple Ethereum/RSK Collectible Token](https://github.com/ajlopez/EthCollectible)
+- [Simple Ethereum/RSK Pets Token](https://github.com/ajlopez/EthPets)
 
 ## Mis Presentaciones
 
