@@ -20,6 +20,8 @@ Hay muchos recursos en inglés, espero poder agregar otros en español.
 - [Blockchain Programming for New Developers — I](https://medium.com/@jesus_notchrist/blockchain-programming-for-new-developers-i-29d795b629fe)
 - [Blockchain Programming for New Developers — II](https://medium.com/@jesus_notchrist/blockchain-programming-for-new-developers-ii-a91afe83011d)
 - [I Explain Blockchain To My 6 Year Old Brother…](https://medium.com/the-post-grad-survival-guide/i-explain-blockchain-to-my-6-year-old-brother-3f8ccf31aee7)
+- [A Hitchhiker's Guide to the Blockchain Universe](https://queue.acm.org/detail.cfm?id=3305265)
+- [Why Blockchain is Hard](https://medium.com/thecrypto/why-blockchain-is-hard-6478409a90)
 
 ### Bitcoin
 
@@ -123,4 +125,6 @@ Programación usando TDD (Test-Driven Development)
 ## Mis Videos
 
 - [Blockchain, Ethereum, RSK y .NET](https://www.youtube.com/watch?v=TiyRIaX99zM)
+- [Programando Smart Contracts Sesión 1](https://www.youtube.com/watch?v=GMa8_pGr28Y) [Notas de la sesión](https://github.com/ajlopez/AprendiendoSolidity/blob/master/SM01.md)
+- [Programando Smart Contracts Sesión 2](https://www.youtube.com/watch?v=TtuVvZeg8E4) [Notas de la sesión](https://github.com/ajlopez/AprendiendoSolidity/blob/master/SM02.md)
 
