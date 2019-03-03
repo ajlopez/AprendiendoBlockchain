@@ -26,6 +26,7 @@ Hay muchos recursos en inglés, espero poder agregar otros en español.
 ### Bitcoin
 
 - [Mastering Bitcoin, 2nd edition](https://github.com/bitcoinbook/bitcoinbook)
+- [Bitcoin Timestamp Security](https://medium.com/@lopp/bitcoin-timestamp-security-8dcfc3914da6)
 
 ### Ethereum
 
