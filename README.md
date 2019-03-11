@@ -122,6 +122,8 @@ Programación usando TDD (Test-Driven Development)
 - [Smart Contracts](https://docs.google.com/presentation/d/16dw66tjzUs1bQ5y5rDCQ1MnkZXSfXUiu-cNDMmG9tC4)
 - [Más allá de Bitcoin y Ethereum](https://docs.google.com/presentation/d/1DouPDO1LZF2RiESnemmD6OLZ8YbX2Re0Jip4NjELsg4)
 - [Introduction to RSK](https://docs.google.com/presentation/d/1f7avYHnTOhLh9WMw6GKpKagltjqNgcwS0rQPlbHcgII)
+- [Building a Blockchain in Java using TDD](https://docs.google.com/presentation/d/1lGZtN5NG6ED_BFeXl2ucC1tViXVsgMMqm_y1CVzGMaU)
+- [Building a Blockchain in C# using TDD](https://docs.google.com/presentation/d/1oaa9kwojyk4P3DggXRQ3aj_tPz3geIkEEONbo1alyDA)
 
 ## Mis Videos
 
