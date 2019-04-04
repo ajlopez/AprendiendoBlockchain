@@ -28,6 +28,10 @@ Hay muchos recursos en inglés, espero poder agregar otros en español.
 - [Mastering Bitcoin, 2nd edition](https://github.com/bitcoinbook/bitcoinbook)
 - [Bitcoin Timestamp Security](https://medium.com/@lopp/bitcoin-timestamp-security-8dcfc3914da6)
 
+### Lightning Network
+
+- [A Deep Dive into LND: Overview and Channel Funding Process](https://medium.com/muunwallet/a-deep-dive-into-lnd-overview-and-channel-funding-process-bd4b3b575860)
+
 ### Ethereum
 
 - [What is Ethereum?](https://www.cbinsights.com/research/what-is-ethereum/)
@@ -54,6 +58,11 @@ Hay muchos recursos en inglés, espero poder agregar otros en español.
 - [List of awesome platforms for smart contracts](https://github.com/Overtorment/awesome-smart-contracts)
 - [Learn X in Y Minutes, where X = Solidity](https://learnxinyminutes.com/docs/solidity/)
 - [The Hitchhiker’s Guide to Smart Contracts in Ethereum](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
+- [ContractPedia: An Encyclopedia of 40+ Smart Contract Platforms](https://hackernoon.com/contractpedia-an-encyclopedia-of-40-smart-contract-platforms-4867f66da1e5)
+
+### Storage
+
+- [StoragePedia: An Encyclopedia of 5 Blockchain Storage Platforms](https://hackernoon.com/storagepedia-an-encyclopedia-of-5-blockchain-storage-platform-8aa13c630ace)
 
 ### Casos de Uso
 
