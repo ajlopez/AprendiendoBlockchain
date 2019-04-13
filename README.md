@@ -122,6 +122,9 @@ Programación usando TDD (Test-Driven Development)
 - [Simple Ethereum/RSK Bridge](https://github.com/ajlopez/EthBridge)
 - [Simple Ethereum/RSK Collectible Token](https://github.com/ajlopez/EthCollectible)
 - [Simple Ethereum/RSK Pets Token](https://github.com/ajlopez/EthPets)
+- [EVM Compiler (from AST to bytecodes)](https://github.com/ajlopez/evmcompiler)
+- [Selang Smart Contract Programming Language parser and compiler](https://github.com/ajlopez/selang)
+- [Solidity Smart Contract Programming Language parser and compiler](https://github.com/ajlopez/solcom)
 
 ## Mis Presentaciones
 
