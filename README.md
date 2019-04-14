@@ -45,6 +45,7 @@ Hay muchos recursos en inglés, espero poder agregar otros en español.
 - [Getting Up to Speed on Ethereum](https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe)
 - [What is Ethereum? Beginners Video Guide](https://www.youtube.com/watch?v=IsXvoYeJxKA)
 - [What Are Dapps? The New Decentralized Future](https://blockgeeks.com/guides/dapps/)
+- [Ethereum for Dummies](https://hackernoon.com/ethereum-for-dummies-af5aeacb13d4)
 
 ### Smart Contracts
 
