@@ -22,6 +22,7 @@ Hay muchos recursos en inglés, espero poder agregar otros en español.
 - [I Explain Blockchain To My 6 Year Old Brother…](https://medium.com/the-post-grad-survival-guide/i-explain-blockchain-to-my-6-year-old-brother-3f8ccf31aee7)
 - [A Hitchhiker's Guide to the Blockchain Universe](https://queue.acm.org/detail.cfm?id=3305265)
 - [Why Blockchain is Hard](https://medium.com/thecrypto/why-blockchain-is-hard-6478409a90)
+- [The State of Hashing Algorithms — The Why, The How, and The Future](https://medium.com/@rauljordan/the-state-of-hashing-algorithms-the-why-the-how-and-the-future-b21d5c0440de)
 
 ### Bitcoin
 
