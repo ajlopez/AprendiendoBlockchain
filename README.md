@@ -23,6 +23,7 @@ Hay muchos recursos en inglés, espero poder agregar otros en español.
 - [A Hitchhiker's Guide to the Blockchain Universe](https://queue.acm.org/detail.cfm?id=3305265)
 - [Why Blockchain is Hard](https://medium.com/thecrypto/why-blockchain-is-hard-6478409a90)
 - [The State of Hashing Algorithms — The Why, The How, and The Future](https://medium.com/@rauljordan/the-state-of-hashing-algorithms-the-why-the-how-and-the-future-b21d5c0440de)
+- [Best Resources for Learning Blockchain Development in 2019](https://hackernoon.com/best-resources-for-learning-blockchain-development-in-2019-ffcd5639739a)
 
 ### Bitcoin
 
@@ -138,6 +139,7 @@ Programación usando TDD (Test-Driven Development)
 - [Introduction to RSK](https://docs.google.com/presentation/d/1f7avYHnTOhLh9WMw6GKpKagltjqNgcwS0rQPlbHcgII)
 - [Building a Blockchain in Java using TDD](https://docs.google.com/presentation/d/1lGZtN5NG6ED_BFeXl2ucC1tViXVsgMMqm_y1CVzGMaU)
 - [Building a Blockchain in C# using TDD](https://docs.google.com/presentation/d/1oaa9kwojyk4P3DggXRQ3aj_tPz3geIkEEONbo1alyDA)
+- [Meta Transactions: a free lunch](https://docs.google.com/presentation/d/1pS2yIrxk6id8HW3H5UTExzYR_VaxawvJdivaNon6lEg/)
 
 ## Mis Videos
 
