@@ -107,6 +107,10 @@ Hay muchos recursos en inglés, espero poder agregar otros en español.
 - [The Effects of Bitcoin on System D – The Shadow Economy](http://coinbrief.net/bitcoin-and-system-d/)
 - [System D: The Future of the Global Economy](http://hqinfo.blogspot.com/2011/11/system-d-future-of-global-economy.html)
 
+### DeFi Finanzas Decentralizadas
+
+Ver [mi repositorio sobre recursos DeFi](https://github.com/ajlopez/LearningDeFi)
+
 ## Mis Proyectos
 
 Programación usando TDD (Test-Driven Development)
@@ -127,6 +131,8 @@ Programación usando TDD (Test-Driven Development)
 - [EVM Compiler (from AST to bytecodes)](https://github.com/ajlopez/evmcompiler)
 - [Selang Smart Contract Programming Language parser and compiler](https://github.com/ajlopez/selang)
 - [Solidity Smart Contract Programming Language parser and compiler](https://github.com/ajlopez/solcom)
+- [Meta Transactions in Ethereum RSK](https://github.com/ajlopez/EthMeta)
+- [Atomic Swap in Ethereum RSK](https://github.com/ajlopez/EthSwap)
 
 ## Mis Presentaciones
 
@@ -138,6 +144,7 @@ Programación usando TDD (Test-Driven Development)
 - [Introduction to RSK](https://docs.google.com/presentation/d/1f7avYHnTOhLh9WMw6GKpKagltjqNgcwS0rQPlbHcgII)
 - [Building a Blockchain in Java using TDD](https://docs.google.com/presentation/d/1lGZtN5NG6ED_BFeXl2ucC1tViXVsgMMqm_y1CVzGMaU)
 - [Building a Blockchain in C# using TDD](https://docs.google.com/presentation/d/1oaa9kwojyk4P3DggXRQ3aj_tPz3geIkEEONbo1alyDA)
+- [Blockchain y Contratos Inteligentes](https://docs.google.com/presentation/d/1_g1wxq8K3Xun77yjnVK1Mphog7rDo1TyIkZPc3LX4Io/edit?usp=sharing]
 
 ## Mis Videos
 
