@@ -148,6 +148,7 @@ Programación usando TDD (Test-Driven Development)
 - [Meta Transactions: a free lunch](https://docs.google.com/presentation/d/1pS2yIrxk6id8HW3H5UTExzYR_VaxawvJdivaNon6lEg/)
 - [Blockchain y Contratos Inteligentes](https://docs.google.com/presentation/d/1_g1wxq8K3Xun77yjnVK1Mphog7rDo1TyIkZPc3LX4Io/edit?usp=sharing)
 - [Ethereum Virtual Machine](https://docs.google.com/presentation/d/1dYOWk4e9U7dXFHmCF2gtoQvpy33Tts7ap3NzAvf_tZM/)
+- [Inside Solidity](https://docs.google.com/presentation/d/16_akipmW5t5Vq_THpCISB5dq5EdcIaFbZhQhqyxGnj8/)
 
 ## Mis Videos
 
