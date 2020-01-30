@@ -29,6 +29,7 @@ Hay muchos recursos en inglés, espero poder agregar otros en español.
 
 - [Mastering Bitcoin, 2nd edition](https://github.com/bitcoinbook/bitcoinbook)
 - [Bitcoin Timestamp Security](https://medium.com/@lopp/bitcoin-timestamp-security-8dcfc3914da6)
+- [A Look at Innovation in Bitcoin’s Technology Stack](https://medium.com/digitalassetresearch/a-look-at-innovation-in-bitcoins-technology-stack-7edf877eab14)
 
 ### Lightning Network
 
