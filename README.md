@@ -151,6 +151,7 @@ Programación usando TDD (Test-Driven Development)
 - [Ethereum Virtual Machine](https://docs.google.com/presentation/d/1dYOWk4e9U7dXFHmCF2gtoQvpy33Tts7ap3NzAvf_tZM/)
 - [Inside Solidity](https://docs.google.com/presentation/d/16_akipmW5t5Vq_THpCISB5dq5EdcIaFbZhQhqyxGnj8/)
 - [RSK Core Internals](https://docs.google.com/presentation/d/1i5qUd-Vs4wzDRI3qyd8KI7_obeIzqVN0T0ssLtrYXTU/)
+- [Introduction to Lightning Network](https://docs.google.com/presentation/d/1a2TDzeuE_neFx1b5hBsdNF5LpRfs5ljtSvbRPqgugpM/)
 
 ## Mis Videos
 
