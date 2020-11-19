@@ -153,6 +153,7 @@ Programación usando TDD (Test-Driven Development)
 - [RSK Core Internals](https://docs.google.com/presentation/d/1i5qUd-Vs4wzDRI3qyd8KI7_obeIzqVN0T0ssLtrYXTU/)
 - [Introduction to Lightning Network](https://docs.google.com/presentation/d/1a2TDzeuE_neFx1b5hBsdNF5LpRfs5ljtSvbRPqgugpM/)
 - ["Gentle" Introduction to Zero Knowledge Proof for Blockchain Developers](https://docs.google.com/presentation/d/1BDsZROFdFCQO62YpZ6R2lrMPrjnfcii7Z4MI8pRgVpU/edit?usp=sharing)
+- [Contratos Inteligentes y TDD](https://docs.google.com/presentation/d/1v1OnbEcPgxq2v-4MQWdJc5z4MHVO0-OhEi1UmZpoFw8/)
 
 ## Mis Videos
 
